@@ -1,0 +1,10 @@
+2022-01-29 21:37:31.884  INFO DESKTOP-MUS1L0F --- [           main] c.a.d.f.FirmadigitalApplication          : Starting FirmadigitalApplication using Java 1.8.0_282 on DESKTOP-MUS1L0F with PID 38060 (D:\herramientas\firmadigital\target\classes started by Cesar´s in D:\herramientas\firmadigital)
+2022-01-29 21:37:31.886 DEBUG DESKTOP-MUS1L0F --- [           main] c.a.d.f.FirmadigitalApplication          : Running with Spring Boot v2.6.2, Spring v5.3.14
+2022-01-29 21:37:31.887  INFO DESKTOP-MUS1L0F --- [           main] c.a.d.f.FirmadigitalApplication          : No active profile set, falling back to default profiles: default
+2022-01-29 21:37:33.341  INFO DESKTOP-MUS1L0F --- [           main] c.a.d.f.FirmadigitalApplication          : Started FirmadigitalApplication in 1.97 seconds (JVM running for 5.366)
+2022-01-29 21:37:35.010  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : INICIA PROCESO 
+2022-01-29 21:37:35.016  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : REVISANDO CARPETA ; D:/firmar/in 
+2022-01-29 21:37:35.016  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : "D:/firmar/in" está vacío---
+2022-01-29 21:37:40.009  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : INICIA PROCESO 
+2022-01-29 21:37:40.009  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : REVISANDO CARPETA ; D:/firmar/in 
+2022-01-29 21:37:40.009  INFO DESKTOP-MUS1L0F --- [   scheduling-1] c.a.d.f.j.JobsLectorInicial              : "D:/firmar/in" está vacío---
